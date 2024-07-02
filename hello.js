@@ -9,5 +9,5 @@ function fibonacci(n) {
 }
 
 // Exemple d'utilisation :
-const n = 10; // Nombre d'éléments de la suite de Fibonacci à générer
+const n = 15; // Nombre d'éléments de la suite de Fibonacci à générer
 console.log(fibonacci(n)); // Affiche les 10 premiers éléments de la suite de Fibonacci
